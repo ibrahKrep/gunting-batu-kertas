@@ -1,0 +1,45 @@
+#all {
+  border: 2px solid White;
+  border-radius: 6px;
+  padding: 8px;
+  text-align: ;
+  background-color: White;
+}
+* {
+  background-color: #bce2fe;
+  color: Black;
+  font-family: 'Mulish', sans-serif;
+}
+button {
+  background-color: White;
+  color: Black;
+  width: 25%;
+  height: 30px;
+  padding: 2px;
+  border-radius: 6px;
+  border: 2px solid Black;
+}
+#b {
+  background-color: White;
+}
+#c {
+  background-color: White;
+  color: Red;
+}
+#yc {
+  background-color: White;
+  color: Blue;
+}
+#r {
+  background-color: White;
+  color: #00f905;
+}
+#computer-ch {
+  background-color: White;
+}
+#user-ch {
+  background-color: White;
+}
+#result {
+  background-color: White;
+}
